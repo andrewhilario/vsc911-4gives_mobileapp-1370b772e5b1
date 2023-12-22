@@ -1,0 +1,2 @@
+import TransactionsCardMenuModal from "./TransactionsCardMenuModal";
+export default TransactionsCardMenuModal

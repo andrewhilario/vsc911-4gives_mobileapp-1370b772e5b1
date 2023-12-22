@@ -1,0 +1,2 @@
+import SettingsOTPVerificationScreen from "./SettingsOTPVerificationScreen";
+export default SettingsOTPVerificationScreen

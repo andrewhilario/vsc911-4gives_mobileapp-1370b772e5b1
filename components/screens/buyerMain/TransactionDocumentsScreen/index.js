@@ -1,0 +1,2 @@
+import TransactionDocumentsScreen from "./TransactionDocumentsScreen";
+export default TransactionDocumentsScreen

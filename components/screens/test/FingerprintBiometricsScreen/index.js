@@ -1,0 +1,2 @@
+import FingerprintBiometricsScreen from "./FingerprintBiometricsScreen";
+export default FingerprintBiometricsScreen

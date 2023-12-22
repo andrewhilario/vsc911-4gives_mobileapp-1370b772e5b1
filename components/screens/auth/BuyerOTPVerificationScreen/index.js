@@ -1,0 +1,2 @@
+import BuyerOTPVerificationScreen from "./BuyerOTPVerificationScreen";
+export default BuyerOTPVerificationScreen

@@ -1,0 +1,2 @@
+import UpdateEmailVerificationScreen from "./UpdateEmailVerificationScreen";
+export default UpdateEmailVerificationScreen

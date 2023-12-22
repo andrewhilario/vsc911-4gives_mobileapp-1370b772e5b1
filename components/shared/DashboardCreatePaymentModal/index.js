@@ -1,0 +1,2 @@
+import DashboardCreatePaymentModal from "./DashboardCreatePaymentModal";
+export default DashboardCreatePaymentModal

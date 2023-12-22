@@ -1,0 +1,2 @@
+import UploadSelfieByCameraModal from "./UploadSelfieByCameraModal";
+export default UploadSelfieByCameraModal

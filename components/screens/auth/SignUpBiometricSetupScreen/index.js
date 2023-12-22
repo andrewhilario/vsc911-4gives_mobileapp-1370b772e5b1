@@ -1,0 +1,2 @@
+import SignUpBiometricSetupScreen from "./SignUpBiometricSetupScreen";
+export default SignUpBiometricSetupScreen

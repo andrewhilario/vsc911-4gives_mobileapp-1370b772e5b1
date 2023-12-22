@@ -1,0 +1,2 @@
+import SignUpDocumentsCameraScreen from "./SignUpDocumentsCameraScreen";
+export default SignUpDocumentsCameraScreen

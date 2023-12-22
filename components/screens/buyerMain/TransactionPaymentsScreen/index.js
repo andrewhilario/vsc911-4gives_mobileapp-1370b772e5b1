@@ -1,0 +1,2 @@
+import TransactionPaymentsScreen from "./TransactionPaymentsScreen";
+export default TransactionPaymentsScreen

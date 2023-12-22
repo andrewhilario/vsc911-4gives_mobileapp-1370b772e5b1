@@ -1,0 +1,2 @@
+import InstallmentCalculatorScreen from "./InstallmentCalculatorScreen";
+export default InstallmentCalculatorScreen
